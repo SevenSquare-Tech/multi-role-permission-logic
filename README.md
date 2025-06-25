@@ -8,6 +8,8 @@ This project, created by dev, is based on instructions provided by Seven Square.
 
 This documentation provides information on how to use the Laravel Roles and Permissions project. The project aims to implement role-based access control (RBAC) in a Laravel application, allowing administrators to manage user roles, permissions, and access control policies.
 
+[Here’s a step-by-step guide to build a multi-role permission system in Laravel.]()
+
 ## Project Instructions
 
 > The purpose of this Laravel project is to be able to create a user admin system, where you can create/edit a user and assign a role to a user. Each role has permissions assigned to it. The system also sends an email when a user logs in with a new IP or device/browser. Please follow the below process to get set up.
