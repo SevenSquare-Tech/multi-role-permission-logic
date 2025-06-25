@@ -8,7 +8,7 @@ This project, created by dev, is based on instructions provided by Seven Square.
 
 This documentation provides information on how to use the Laravel Roles and Permissions project. The project aims to implement role-based access control (RBAC) in a Laravel application, allowing administrators to manage user roles, permissions, and access control policies.
 
-[Here’s a step-by-step guide to build a multi-role permission system in Laravel.]()
+[Here’s a step-by-step guide to build a multi-role permission system in Laravel.](https://www.sevensquaretech.com/multi-role-permission-system-laravel-with-code/)
 
 ## Project Instructions
 
